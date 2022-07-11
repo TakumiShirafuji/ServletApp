@@ -8,6 +8,6 @@
 </head>
 <body>
 	<h1>ログインエラー</h1>
-	<a href="" >戻る</a>
+	<a href="">戻る</a>
 </body>
 </html>
