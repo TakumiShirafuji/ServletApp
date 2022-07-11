@@ -10,6 +10,5 @@
 	<h2>トップメニュー</h2>
 	<a href="jsp/u_login">利用者</a>
 	<a href="jsp/a_login">管理者</a>
-
 </body>
 </html>
