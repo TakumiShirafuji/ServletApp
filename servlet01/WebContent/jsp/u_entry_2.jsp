@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>ユーザ登録確認</title>
 </head>
 <body>
 	<h2>ユーザ登録確認</h2>
