@@ -4,11 +4,19 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>トップメニュー</title>
+<title>利用者ログイン</title>
 </head>
 <body>
-	<h2>トップメニュー</h2>
-	<a href="jsp/u_login">利用者</a>
-	<a href="jsp/a_login">管理者</a>
+	<a href="jsp/u_entry_1.jsp">ユーザ登録</a>
+	<a href="jsp/topmenu.jsp">トップメニュー</a>
+
+	<p>ログインID　　<input type="text" name="name" size="15"></p>
+	<p>パスワード　　<input type="text" name="name" size="15"></p>
+
+	<a href="u_men.jsp">ログイン</a>
+
+	<h2>利用者ログイン</h2>
+
+
 </body>
 </html>
