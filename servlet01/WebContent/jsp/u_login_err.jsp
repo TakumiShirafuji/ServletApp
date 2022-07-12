@@ -7,7 +7,7 @@
 <title>ログインエラー</title>
 </head>
 <body>
-	<h1>ログインエラー</h1>
+	<h2>ログインエラー</h2>
 	<a href="">戻る</a>
 </body>
 </html>
