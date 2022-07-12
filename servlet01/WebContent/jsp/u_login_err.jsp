@@ -4,11 +4,10 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>トップメニュー</title>
+<title>ログインエラー</title>
 </head>
 <body>
-<h2>トップメニュー</h2>
-	<a href="jsp/u_login.jsp">利用者</a>
-	<a href="jsp/a_login.jsp">管理者</a>
+	<h2>ログインエラー</h2>
+	<a href="">戻る</a>
 </body>
 </html>
