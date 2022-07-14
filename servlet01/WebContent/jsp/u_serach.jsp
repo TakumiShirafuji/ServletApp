@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>検索・表示</title>
 </head>
 <body>
     <p>ログイン：</p>
