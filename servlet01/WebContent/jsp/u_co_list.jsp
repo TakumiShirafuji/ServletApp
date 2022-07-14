@@ -7,6 +7,13 @@
 <title>Insert title here</title>
 </head>
 <body>
-
+	<a href="">メニューに戻る</a>
+	<table>
+		<tr>
+			<th>No</th>
+			<th>企業名</th>
+			<th>詳細を見る</th>
+		</tr>
+	</table>
 </body>
 </html>
