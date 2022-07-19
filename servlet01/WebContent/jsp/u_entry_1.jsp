@@ -7,12 +7,12 @@
 <title>ユーザ登録画面</title>
 </head>
 <body>
-	<a href="">ログイン</a>
+	<a href="jsp/u_login.jsp">ログイン</a>
 	<h2>ユーザ登録</h2>
-	<form action="">
+	<form action="/servlet01/" method="post">
 		ログインID<input type="text" name="id">
-		パスワード<input type="text" name="pass">
-		パスワード（確認）<input type="text" name="password">
+		パスワード<input type="password" name="pw">
+		パスワード（確認）<input type="password" name="pw2">
 		<input type="submit" value="登録する">
 	</form>
 </body>

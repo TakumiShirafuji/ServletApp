@@ -7,16 +7,19 @@
 <title>利用者ログイン</title>
 </head>
 <body>
-	<a href="jsp/u_entry_1.jsp">ユーザ登録</a>
-	<a href="jsp/topmenu.jsp">トップメニュー</a>
-
-	<p>ログインID　　<input type="text" name="name" size="15"></p>
-	<p>パスワード　　<input type="text" name="name" size="15"></p>
-
-	<a href="jsp/u_men.jsp">ログイン</a>
+	<a href="u_entry_1.jsp">ユーザ登録</a>
+	<a href="topmenu.jsp">トップメニュー</a>
 
 	<h2>利用者ログイン</h2>
 
-
+	<form action="/servlet01/u_login" method="post">
+		<label for="id">ログインID</label>
+		<input type="text" name="id" id="id">
+		<br>
+		<label for="pw">パスワード</label>
+		<input type="password" name="pw" id="pw">
+		<br>
+		<input type="submit" value="ログイン">
+	</form>
 </body>
 </html>
