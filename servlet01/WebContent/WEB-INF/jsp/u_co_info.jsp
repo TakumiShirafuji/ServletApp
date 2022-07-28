@@ -3,8 +3,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="UTF-8">
-<title>求人詳細情報</title>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" href="css/style.css">
+	<title>求人詳細情報</title>
 </head>
 <body>
 	<p>ログイン : </p><a href="jsp/u_login.jsp">ログアウト</a>

@@ -3,8 +3,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="UTF-8">
-<title>求人情報修正結果</title>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" href="css/style.css">
+	<title>求人情報修正結果</title>
 </head>
 <body>
 	<h3>求人情報修正結果</h3>

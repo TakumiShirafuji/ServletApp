@@ -3,8 +3,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="UTF-8">
-<title>ログインエラー</title>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" href="css/style.css">
+	<title>ログインエラー</title>
 </head>
 <body>
 	<h2>ログインエラー</h2>

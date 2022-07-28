@@ -3,8 +3,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="UTF-8">
-<title>ユーザ登録確認</title>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" href="css/style.css">
+	<title>ユーザ登録確認</title>
 </head>
 <body>
 	<h2>ユーザ登録確認</h2>

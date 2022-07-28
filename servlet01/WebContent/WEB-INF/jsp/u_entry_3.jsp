@@ -3,8 +3,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="UTF-8">
-<title>ユーザ登録結果</title>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" href="css/style.css">
+	<title>ユーザ登録結果</title>
 </head>
 <body>
 	<h2>ユーザ登録結果</h2>

@@ -3,8 +3,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="UTF-8">
-<title>ユーザ登録画面</title>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" href="css/style.css">
+	<title>ユーザ登録画面</title>
 </head>
 <body>
 	<a href="jsp/u_login.jsp">ログイン</a>

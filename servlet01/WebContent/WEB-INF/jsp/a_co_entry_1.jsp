@@ -3,8 +3,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="UTF-8">
-<title>管理者画面 求人情報登録</title>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" href="css/style.css">
+	<title>管理者画面 求人情報登録</title>
 </head>
 <body>
 	<h2>管理者画面 求人情報登録</h2>
